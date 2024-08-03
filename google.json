@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "invoice-management-app",
+  "private_key_id": "797d5c683db1b2b01ca569e663b441fd3703ae32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCa8EZbCJNhsMtJ\nCwugf99NVfg3VNiMuHlAGSVV2znHdiugvm+gemqY8FMtA4c36QKLHi1JljDImaAF\nLOpRkd5GOW3kitUc66Vuqp4+0WkXQJ5H2cVfyPJmXRiVQesa+DGPDUKPGEVZMxtf\n1yVOXz1Du7YTD2lYjDEp2zMEy3lzFFzYpNGn1jucTcDP3aQnWnjYzRUpyYypmvhq\nRTZfdr1jZgG8d88/NeDHEtRHzMPxQZzBpEt7+YfBGWh+bzaPS97LHOPwNVNkKlA+\nlBi7ppRwhfnif2tn++7pfqh8vUsmmN9Ahvk5HfUApnVwRtkg7hpG8D413oWTZ0cu\n69gLfJiPAgMBAAECggEAAMihWnmHIVHfHV34b5Xl/8KlEEaWF9QhDOFzrmT+/FLN\nMrFz6BhmbKKekRY4+1/q2uBKs1oWohUg2ZXaE5KM0Mcelq7bGBvbCN3FEiVGBk+V\n3WAtHuhpzXnAE5UzRr4lpgcXpJinVSWsiEYS0rwpl6ud5qfHzSJcZ01MC0SqNxpL\nwCKJVaMexqd5ZIAT3gUYfRcwSDSbFciXuTcGsuE4DKR7tlSg5nyOKkiW5IV/3V82\nxmvBfx/8pG3H0jlO8osx0DdWmu4Rkj0JqfdrVUzQEispNNmH6xJ5Ys1TLZCevyQ1\n38dXTKKpGe8rlAniR+sfVT7LE2lmeK0AfIZ6CRT9JQKBgQDIOfnjHdWGKKrIpVXw\nxHAH/gvgY3DazCxzn/qQPp7wljks6EqnsLcjQjLL32oZaEBcMKkSm5/qETHf6vUR\nejHLfBV8wYM7HvjIYakVk7yFCUPQeEszhxfNEgnb4v138XSUcHZf+KIjafnwHBRe\nj0YRI2svygubEWZwa0C3SzDAzQKBgQDGGNjndGowBvFQ/oj2HEil/unY9YpHxDJH\nKLL4DyUUV2HXrOotQnaDuZPUlN940xRx4tDP8VoujHDM6qQZnOhgN1u3SfnpssS4\nIAoOkfxOvfUIlgnsgTcuXtKkh18Nskdq3pJGo7+X+6Dta8epcUvxr/ilPLw5mrxe\nqKsUvGqOywKBgQC9EOHBcB57/FKn/FdWbmdLZLxaOgwKztj6pYm4QylaDMAYg5Bb\nICcOiCfnEyPgsex0IQ7Fn2Y1Y98wjXCz/Cqg9p5jm2cLoIdSz8UVttdA2CrM44o/\nMcVrwyjEFWc6pylqMXfVz7Vqs1trO1iQocGL1WIVUjf7SUbtyJjne3yh0QKBgQCl\nUO8SmRBU7DZOxVw/JvNptAYrTR4NLipXQBu678id5R5+AoubIbAN1b0M1wB3sI+L\nSyG/p0b/OayZFefEiDFUul4L4+xvnwSUNAiwiBvrCpOGis/VUzBdvjxDmcU1hOYc\nxYmE8fpeN1vhRuTk/uvF0njKTJk36W3yAQhk0aiLaQKBgAcBlA4uXLB1bVnerzA1\nnubqwp7luWUcVg260Zd9Dd8aSsPP+2jZTz/QTsPBa8zUZAt8L107Shw3tqX8PhUy\n2AX9sPDh4535/4IlPM21OklnYnKYknyzI8kK0Ul+yMakHzq2XTjIXFmoHWxhqCRQ\n1WhaPp2aE3Jf6jMyy7qMahOR\n-----END PRIVATE KEY-----\n",
+  "client_email": "quickbill@invoice-mana.iam.gserviceaccount.com",
+  "client_id": "102200146702698861883",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quickbill%40invoice-mana.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
